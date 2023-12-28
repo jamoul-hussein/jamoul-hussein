@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamoul-hussein&label=Profile%20views&color=0e75b6&style=flat" alt="jamoul-hussein" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jamoul-hussein" alt="jamoul-hussein" /></a> </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=jamoul-hussein&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,8 +19,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jamoul-hussein&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jamoul-hussein&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jamoul-hussein&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jamoul-hussein&limit=5&theme=flat&combine_all_yearly_contributions=true)
